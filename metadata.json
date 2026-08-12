@@ -1,0 +1,6 @@
+{
+  "name": "RAG PDF Chatbot",
+  "description": "An intelligent RAG-based chatbot that indexes uploaded PDF documents and provides precise answers with citations using Gemini or local Ollama Qwen2.5 model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
